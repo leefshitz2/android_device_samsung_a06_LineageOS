@@ -27,5 +27,5 @@ PRODUCT_GMS_CLIENTID_BASE := android-samsung
 TARGET_EXCLUDES_AUDIOFX := true
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="a06xx-user 12 SP1A.210812.016 A065FXXU1AXG8 release-keys" \
-    BuildFingerprintsamsung/a06xx/a06:12/SP1A.210812.016/A065FXXU1AXG8:user/release-keys
+    BuildDesc="a06xx-user 12 SP1A.210812.016 A065FXXS3AYB1 release-keys" \
+    BuildFingerprint=samsung/a06xx/a06:12/SP1A.210812.016/A065FXXS3AYB1:user/release-keys
